@@ -1,0 +1,39 @@
+[
+    {
+      "titulo": "Projeto Cardápio",
+      "imagem": "./img/2-cardapio.png",
+      "site": "https://nathycabral.github.io/Cardapio-/",
+      "github": "https://github.com/NathyCabral/Cardapio-"
+    },
+    {
+      "titulo": "Mulheres que Inspiram",
+      "imagem": "./img/1-ada.png",
+      "site": "https://nathycabral.github.io/mulher-que-inspira/",
+      "github": "https://github.com/NathyCabral/mulher-que-inspira"
+    },
+    {
+      "titulo": "Calculadora Composta",
+      "imagem": "./img/6-calcul.png",
+      "site": "https://nathycabral.github.io/calculadora-composta/",
+      "github": "https://github.com/NathyCabral/calculadora-composta"
+    },
+    {
+      "titulo": "Pokedex",
+      "imagem": "./img/4-poke.png",
+      "site": "https://nathycabral.github.io/pokedex/",
+      "github": "https://github.com/NathyCabral/pokedex"
+    },
+    {
+      "titulo": "Jogo da velha",
+      "imagem": "./img/5-velha.png",
+      "site": "https://nathycabral.github.io/game-tictactoe/",
+      "github": "https://github.com/NathyCabral/game-tictactoe"
+    },
+    {
+      "titulo": "Jogo da memória",
+      "imagem": "./img/3-memo.png",
+      "site": "https://nathycabral.github.io/jogo-da-memoria/",
+      "github": "https://github.com/NathyCabral/jogo-da-memoria"
+    }
+  ]
+  
